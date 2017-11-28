@@ -16,3 +16,7 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 而被MASM编译器当作指令mov ax,idata处理, 所以在程序中需要添加段前缀, 
 如: mov ax,ds:[idata]
 
+## 5p5.asm	p116
+计算ffff:0~ffff:b单元中的数据的和, 结果存储在dx中.
+注意需要用一个16位寄存器来做中介的问题.
+
