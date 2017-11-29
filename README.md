@@ -33,3 +33,6 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 ## 6p2.asm	p126
 计算 0123h,0456h,0789h,0abch,0defh,0fedh,0cbah,0987h 8个数据的和.
 较6p1.asm添加start和end start.
+
+## 6p3.asm	p128
+利用栈, 将程序中定义的数据逆序存放.
