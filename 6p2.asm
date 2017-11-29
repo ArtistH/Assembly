@@ -1,5 +1,5 @@
-# ¼ÆËã 0123h,0456h,0789h,0abch,0defh,0fedh,0cbah,0987h 8¸öÊı¾İµÄºÍ.
-# ½Ï6p1.asmÌí¼Óstart&end start
+# è®¡ç®— 0123h,0456h,0789h,0abch,0defh,0fedh,0cbah,0987h 8ä¸ªæ•°æ®çš„å’Œ.
+# è¾ƒ6p1.asmæ·»åŠ startå’Œend start.
 
 assume cs:code
 
