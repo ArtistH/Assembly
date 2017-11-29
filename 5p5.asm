@@ -1,4 +1,4 @@
-# 计算ffff:0~ffff:b单元中的数据的和, 结果存储在dx中.
+; 计算ffff:0~ffff:b单元中的数据的和, 结果存储在dx中.
 
 assume cs:code
 code segment

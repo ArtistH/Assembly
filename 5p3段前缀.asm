@@ -1,4 +1,4 @@
-# 计算ffff:0006单元中的数乘以3, 结果存储在dx中.
+; 计算ffff:0006单元中的数乘以3, 结果存储在dx中.
 
 assume cs:code
 code segment

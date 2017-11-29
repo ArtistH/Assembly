@@ -1,4 +1,4 @@
-# 使用DEBUG程序跟踪寄存器用, 注意查看PSP内容.
+; 使用DEBUG程序跟踪寄存器用, 注意查看PSP内容.
 assume cs:codesg
 
 codesg segment

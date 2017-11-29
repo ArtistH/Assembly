@@ -1,4 +1,5 @@
-# 随意向一段内存空间写入内容是很危险的
+; 随意向一段内存空间写入内容是很危险的
+
 assume cs:code
 code segment
     mov ax,0
