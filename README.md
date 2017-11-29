@@ -25,3 +25,11 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 
 ## 5p9.asm	p121
 将内存ffff:0-ffff:b单元中的数据复制到0:200-0:20b单元中.
+
+
+## 6p1.asm	p124
+计算 0123h,0456h,0789h,0abch,0defh,0fedh,0cbah,0987h 8个数据的和.
+
+## 6p2.asm	p126
+计算 0123h,0456h,0789h,0abch,0defh,0fedh,0cbah,0987h 8个数据的和.
+较6p1.asm添加start和end start.
