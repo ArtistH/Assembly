@@ -1,3 +1,5 @@
+; 将datasg段中每个单词的前4个字母改为大写字母
+
 assume cs:codesg,ss:stacksg,ds:datasg
 
 stacksg segment
