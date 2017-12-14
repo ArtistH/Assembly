@@ -62,4 +62,7 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 
 
 ## 9p2.asm	p178
-在DEBUG中验证段内转移
+在DEBUG中验证段内转移, jmp short 标号
+
+## 9p3.asm	p181
+在DEBUG中验证段间转移, jmp far ptr 标号
