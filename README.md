@@ -61,6 +61,9 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 实验7 寻址方式在结构化数据访问中的应用
 
 
+## 9q1.asm	p176
+在DEBUG中通过-d查看内存内容来验证内容复制
+
 ## 9p2.asm	p178
 在DEBUG中验证段内转移, jmp short 标号
 
