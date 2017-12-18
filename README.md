@@ -69,3 +69,6 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 
 ## 9p3.asm	p181
 在DEBUG中验证段间转移, jmp far ptr 标号
+
+## 9ex8.asm	p187
+分析程序执行过程
