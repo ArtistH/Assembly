@@ -72,3 +72,6 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 
 ## 9ex8.asm	p187
 分析程序执行过程
+
+## 9ex9.asm	p187
+在屏幕中间显示不同颜色的字符串'welcome to masm!'
