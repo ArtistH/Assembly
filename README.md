@@ -75,3 +75,6 @@ mov ax,[idata] 在DEBUG中可以正常处理,
 
 ## 9ex9.asm	p187
 在屏幕中间显示不同颜色的字符串'welcome to masm!'
+
+## 10p1.asm	p201
+计算data段中第一组数据的3次方, 结果保存在后面一组dword单元中.
