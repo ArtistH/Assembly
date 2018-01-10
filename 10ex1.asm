@@ -13,8 +13,8 @@ data segment
 data ends
 
 code segment
-start:	mov dh,1
-	mov dl,0
+start:	mov dh,8
+	mov dl,3
 	mov cl,2
 	mov ax,data
 	mov ds,ax
